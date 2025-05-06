@@ -1,0 +1,9 @@
+CSS - Cascading Styling Sheet
+
+id -->used for single class
+class --> mul element styling
+
+linking 
+1.Inline --> within a tag (in head use <style>)
+2.external --> 
+3.internal -->
