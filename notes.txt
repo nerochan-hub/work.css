@@ -31,3 +31,41 @@ div --> diff pages on single websiteid can't be used in div so use class as it h
 
 hoework 
 home,about, contact page 
+
+
+
+backgrounds
+px for minor change
+% for large change 
+
+  1.background_position: 50px 40%;
+  2.bg size
+     .auto
+     .cover
+     .contain --> best
+
+   border
+     .style
+     .width
+     .colour
+    border: 15px inset/outset/none  
+    outline: 20px double/single;
+    margin:50px;
+
+
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: right;
+    background-position-y: center;
+
+
+
+    text
+    .overline
+    .line-through
+    .underline
+
+
+
+ list li*num to get no.of list   
