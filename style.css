@@ -1,4 +1,21 @@
+
+
 h3{
     background-color: bisque;
     font-size: 30px;
+}
+.a h1{background-color: blueviolet;}
+.b{
+    height: 250px;
+    width: 250px;
+    border: 2px solid;
+    background-color: brown;
+    padding: 50px;
+    margin: 50px;
+
+    
+}
+table,tr,th{
+    border: 3px solid; 
+    border-collapse: collapse;
 }

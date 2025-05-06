@@ -1,9 +1,33 @@
 CSS - Cascading Styling Sheet
 
-id -->used for single class
-class --> mul element styling
+id -->used for single class(used as attriutes)
+ notation #
+class --> mul element styling 
+ notation .
 
 linking 
-1.Inline --> within a tag (in head use <style>)
+1.Inline --> a tag b/w head and body(in head use <style>)
+   drawbacks
+        .need to use style on each one separately
 2.external --> 
+        .best of three
 3.internal -->
+      drawbacks
+          .loading problem
+
+same tag mul times use rgb to differentiate colour
+255, 255, 255 max rgb - white
+0, 0 ,0  min rgb - black
+
+colourhunt - website to use colour palatte
+by using #hexadecimalvalue
+
+div --> diff pages on single websiteid can't be used in div so use class as it has mul element 
+
+*{
+    universal colouring as a whole page
+}
+
+
+hoework 
+home,about, contact page 
